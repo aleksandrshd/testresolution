@@ -14,3 +14,27 @@
         color: aqua;
     }
   }
+
+  @media screen and (max-width: 500px) {
+    .page {
+        background-color: yellow;
+    }
+  }
+
+  @media screen and (max-height: 650px) {
+    .page {
+        color: purple;
+    }
+  }
+
+  @media screen and (max-width: 450px) {
+    .page {
+        background-color: brown;
+    }
+  }
+
+  @media screen and (max-height: 600px) {
+    .page {
+        color: navy;
+    }
+  }
