@@ -3,55 +3,55 @@
     color: black;
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 390px) {
     .page {
         background-color: green;
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 385px) {
     .page {
         background-color: yellow;
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 380px) {
     .page {
         background-color: violet;
     }
 }
 
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 375px) {
     .page {
         background-color: blue;
     }
 }
 
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 370px) {
     .page {
         background-color: black;
     }
 }
 
-@media screen and (max-width: 405px) {
+@media screen and (max-width: 365px) {
     .page {
         background-color: white;
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 360px) {
     .page {
         background-color: grey;
     }
 }
 
-@media screen and (max-width: 395px) {
+@media screen and (max-width: 355px) {
     .page {
         background-color: orange;
     }
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 350px) {
     .page {
         background-color: pink;
     }
@@ -63,13 +63,13 @@
     }
 }
  
-@media screen and (max-height: 698px) {
+@media screen and (max-height: 699px) {
     .page {
         color: purple;
     }
 }
 
-@media screen and (max-height: 696px) {
+@media screen and (max-height: 698px) {
     .page {
         color: navy;
     }
