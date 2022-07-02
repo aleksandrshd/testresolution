@@ -15,25 +15,25 @@
     }
   }
 
-  @media screen and (max-width: 530px) {
+  @media screen and (max-width: 540px) {
     .page {
         background-color: yellow;
     }
   }
 
-  @media screen and (max-height: 680px) {
+  @media screen and (max-height: 690px) {
     .page {
         color: purple;
     }
   }
 
-  @media screen and (max-width: 510px) {
+  @media screen and (max-width: 530px) {
     .page {
         background-color: brown;
     }
   }
 
-  @media screen and (max-height: 660px) {
+  @media screen and (max-height: 680px) {
     .page {
         color: navy;
     }
